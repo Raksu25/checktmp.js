@@ -1,5 +1,3 @@
-check temp
-
 function checkTemp (temp) {
     console.log("Temp on "+temp)
     
